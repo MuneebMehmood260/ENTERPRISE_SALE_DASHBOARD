@@ -197,7 +197,7 @@ The dashboard is built using an enterprise sales dataset containing:
 # 📁 Repository Structure
 
 ```text
-ENTERPRISE_SALE_DASHBOARD/
+Enterprice_Sales_Dashboard/
 │
 ├── Dashboard/
 │   └── Enterprise Sales Dashboard.pbix
